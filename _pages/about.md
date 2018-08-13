@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 Inho is a visiting predoctoral fellow at Kellogg School of Management and NICO, and a PhD candidate at Pohang University of Science and Technology, Korea. His research focuses on understanding social systems through data analysis and mathematical modeling, with a particular interest on economic complexity, knowledge structure, and human mobility.
 
 Education
@@ -67,5 +68,3 @@ Skills and Languages
 ------
 * MATLAB, Python, C
 * Korean (native), English (advanced)
-
-
