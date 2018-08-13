@@ -9,4 +9,4 @@ citation: 'I. Hong and W.-S. Jung, &quot;Application of gravity model on the Kor
 ---
 Mobility models have been studied to describe the underlying mechanism of human mobility. The mobility patterns in various transportation systems were understood with the gravity model by estimating the traffic as a simple function of population and distance. Compared to most studies on large-scale systems, we focused on the validity and characteristics of gravity model for intraurban mobility. Several variations of gravity model are applied on the urban bus systems of five medium-sized cities in Korea. The gravity model successfully estimates the intraurban traffic without universal exponents for cities. From the change of exponents by predictor types, we figure out the effect by a non-trivial relation between traffic and population in the urban areas.
 
-Citation: I. Hong and W.-S. Jung, "Application of gravity model on the Korean urban bus network", *Physica A* **462**, 48-55 (2016).
+Citation: I. Hong and W.-S. Jung, &quot;Application of gravity model on the Korean urban bus network&quot;, <i>Physica A</i> <b>462</b>, 48-55 (2016).
