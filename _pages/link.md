@@ -5,6 +5,8 @@ permalink: /link/
 author_profile: true
 ---
 
+{% include base_path %}
+
 Related links
 ======
 * [Pohang University of Science and Technology](http://www.postech.ac.kr/eng/)
