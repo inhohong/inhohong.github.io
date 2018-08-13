@@ -12,9 +12,8 @@ Inho is a visiting predoctoral fellow at Kellogg School of Management and NICO, 
 
 
 THIS SITE IS IN CONSTRUCTION: 
-------
+======
 LAST UPDATE: 08/13/2018
-------
 
 Education
 ------
