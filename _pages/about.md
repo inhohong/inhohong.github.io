@@ -42,7 +42,7 @@ Teaching experience
 
 Project Experience
 ------
-* Physicia Upgrade: Upgrade and develop educational software “Physicia” for demonstrating simulations on statistical physics and nonlinear dynamics, March 2016 - September 2016 [Link](http://comphys.postech.ac.kr)
+* Physicia Upgrade: Upgrade and develop educational software “Physicia” for demonstrating simulations on statistical physics and nonlinear dynamics, March 2016 - September 2016 [LINK](http://comphys.postech.ac.kr)
 
 Awards and Fellowships
 ------
@@ -58,7 +58,7 @@ Awards and Fellowships
 
 Skills and Languages
 ------
-* MATLAB, Python, C 
+* MATLAB, Python, C
 * Korean (native), English (advanced)
 
 
