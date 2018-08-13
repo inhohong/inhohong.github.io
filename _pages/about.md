@@ -48,11 +48,11 @@ Teaching experience
 * Teaching assistant, Electronics & Instrumentation Lab, Fall 2010. 
 * Teaching assistant, Electronics & Instrumentation Lab, Spring 2010.
 
-Project Experience
+Project experience
 ------
 * Physicia Upgrade: Upgrade and develop educational software “Physicia” for demonstrating simulations on statistical physics and nonlinear dynamics, March 2016 - September 2016 [LINK](http://comphys.postech.ac.kr)
 
-Awards and Fellowships
+Awards and fellowships
 ------
 * Global Ph.D. Fellowship, Program National Research Foundation of Korea (NRF), March 2014–February 2017.
 * Samsung Undergraduate Scholarship, Samsung Electro-Mechanics, March 2006-February 2010.
@@ -64,7 +64,7 @@ Awards and Fellowships
 * Best Paper Award, Undergraduate Research Program, POSTECH, 2009.
 * Excellent Bachelor Thesis Award, Dept. of Physics, POSTECH, 2009.
 
-Skills and Languages
+Skills and languages
 ------
 * MATLAB, Python, C
 * Korean (native), English (advanced)
