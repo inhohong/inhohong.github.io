@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Related links
-======
 * [Pohang University of Science and Technology](http://www.postech.ac.kr/eng/)
 * [Complexity in Social System Lab](http://complex.postech.ac.kr)
 * [Department of Physics at POSTECH](http://phome.postech.ac.kr/user/pheng/index.html)
