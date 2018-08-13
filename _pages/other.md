@@ -2,7 +2,7 @@
 layout: archive
 title: "Other experiences"
 author_profile: true
-permalink: /link/
+permalink: /other/
 ---
 
 {% include base_path %}
