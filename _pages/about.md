@@ -30,22 +30,21 @@ Research interests
 
 Research experience
 ------
-* Kellogg School of Management, Northwestern University, USA (October 2017-Present)
-* Northwestern Institute on Complex Systems, Northwestern University, USA (October 2017-Present)
-* Harvard Kennedy School, Harvard University, USA (June 2017)
-* Santa Fe Institute, USA (February 2016)
-* Aalto University, Finland (February 2015)
+* October 2017-Present: Visiting Predoctoral Fellow
+  * Kellogg School of Management, Northwestern University, USA
+  * Northwestern Institute on Complex Systems, Northwestern University, USA
+* June 2017
+  * Harvard Kennedy School, Harvard University, USA
+* February 2016
+  * Santa Fe Institute, USA
+* February 2015
+  * Aalto University, Finland
 
 Publications
 ------
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Project experience
-------
-* Physicia Upgrade
-  * Upgrade and develop educational software “Physicia” for demonstrating simulations on statistical physics and nonlinear dynamics, March 2016 - September 2016 [LINK](http://comphys.postech.ac.kr)
 
 Fellowships (selected)
 ------
