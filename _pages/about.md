@@ -38,7 +38,9 @@ Research experience
 
 Publications
 ------
-{% for post in site.publications reversed %} {% include archive-single-cv.html %} {% endfor %}
+{% for post in site.publications reversed %} 
+  {% include archive-single-cv.html %} 
+{% endfor %}
 
 Project experience
 ------
