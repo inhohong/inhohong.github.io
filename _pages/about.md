@@ -10,11 +10,6 @@ redirect_from:
 
 I am a PhD candidate at Pohang University of Science and Technology, Korea, and a visiting predoctoral fellow at Kellogg School of Management and Northwestern Institute on Complex Systems. My research focuses on understanding social systems through data analysis and mathematical modeling, with a particular interest on economic complexity, knowledge structure, and human mobility.
 
-
-THIS SITE IS IN CONSTRUCTION: 
-======
-LAST UPDATE: 08/14/2018
-
 Education
 ------
 * Ph.D. Cadidate in Physics, Pohang University of Science and Technology (Expected to Graduate in February 2019)
