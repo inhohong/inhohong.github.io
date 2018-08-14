@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Other experiences"
+title: "Experiences"
 author_profile: true
 permalink: /other/
 ---
