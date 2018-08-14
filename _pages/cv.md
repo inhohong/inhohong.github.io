@@ -11,18 +11,9 @@ redirect_from:
 
 ## <span style="color:blue"> **[Download CV](https://github.com/inhohong/inhohong.github.io/raw/master/files/CV_inho%20hong.pdf)** </span>
 
-Education
-------
-* Ph.D. Cadidate in Physics, Pohang University of Science and Technology (Expected to Graduate in February 2019)
-* M.S. in Physics, Pohang University of Science and Technology, 2012.
-* B.S. in Physics, Pohang University of Science and Technology, 2010.
+{% include_relative education.md %}
 
-Research interests
-------
-* Modeling universal patterns in cities
-* Economic complexity
-* Human mobility models and their application to data
-* Evolution of knowledge structure
+{% include_relative research-interest.md %}
 
 Publications
 ------
