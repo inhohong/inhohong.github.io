@@ -47,7 +47,7 @@ Project experience
 * Physicia Upgrade
   * Upgrade and develop educational software “Physicia” for demonstrating simulations on statistical physics and nonlinear dynamics, March 2016 - September 2016 [LINK](http://comphys.postech.ac.kr)
 
-Awards and fellowships (selected)
+Fellowships (selected)
 ------
 * Global Ph.D. Fellowship, Program National Research Foundation of Korea (NRF), March 2014–February 2017.
 * Samsung Undergraduate Scholarship, Samsung Electro-Mechanics, March 2006-February 2010.
