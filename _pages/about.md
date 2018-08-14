@@ -10,18 +10,9 @@ redirect_from:
 
 I am a PhD candidate at [Complexity in Social System (CS<sup>2</sup>) Lab.](http://complex.postech.ac.kr) in [Pohang University of Science and Technology](http://www.postech.ac.kr/eng/), Korea, and a visiting predoctoral fellow at [Kellogg School of Management](https://www.kellogg.northwestern.edu) and [Northwestern Institute on Complex Systems](https://www.nico.northwestern.edu) at Northwestern University, USA. My research focuses on understanding social systems through data analysis and mathematical modeling, with a particular interest on economic complexity, knowledge structure, and human mobility.
 
-Education
-------
-* Ph.D. Cadidate in Physics, Pohang University of Science and Technology (Expected to Graduate in February 2019)
-* M.S. in Physics, Pohang University of Science and Technology, 2012.
-* B.S. in Physics, Pohang University of Science and Technology, 2010.
+{% include_relative education.md %}
 
-Research interests
-------
-* Modeling universal patterns in cities
-* Economic complexity
-* Human mobility models and their application to data
-* Evolution of knowledge structure
+{% include_relative research-interest.md %}
 
 Research experience
 ------
