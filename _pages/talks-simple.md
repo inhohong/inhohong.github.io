@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Talks"
 permalink: /talks-simple/
 author_profile: true
