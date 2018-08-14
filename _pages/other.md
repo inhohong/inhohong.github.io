@@ -50,9 +50,4 @@ Awards and fellowships
   * Undergraduate Research Program, POSTECH, 2009.
 * Excellent Bachelor Thesis Award
   * Dept. of Physics, POSTECH, 2009.
-
-Skills and languages
-------
-* MATLAB, Python, C
-* Korean (native), English (advanced)
-
+  
