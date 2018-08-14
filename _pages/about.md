@@ -38,13 +38,7 @@ Research experience
 
 Publications
 ------
-* I. Hong, W.-S. Jung, H.-H. Jo, Gravity model explained by the radiation model on a population landscape, *arXiv preprint* arXiv:1803.09067, (2018). [LINK](https://arxiv.org/abs/1803.09067).
-* I. Hong, W.-S. Jung, Application of gravity model on the Korean urban bus network, *Physica A* **462**, 48-55 (2016). [LINK](https://www.sciencedirect.com/science/article/pii/S0378437116303235)
-* S. Lee, I. Hong, W.-S. Jung, A network approach to the transfer market of European football leagues, *New Physics: Sae Mulli* **65**, 402-409 (2015). [LINK](http://www.npsm-kps.org/journal/download_pdf.php?doi=10.3938/NPSM.65.402)
-* I. Hong et al., Evaluation of the imaging properties of Microwave Imaging Reﬂectometry, *Journal of Instrumentation* **7**, C01077 (2012).
-* W. Lee et al., Microwave imaging reﬂectometry system for KSTAR, *Plasma and Fusion Research* **6**, 2402037-2402037 (2011).
-* W. Lee et al., Comparative study between the reﬂective optics and lens based system for microwave imaging system on KSTAR, *Review of Scientiﬁc Instruments* **81**, 10D932 (2010).
-* H. K. Park et al., Microwave imaging reﬂectometry studies for turbulence diagnostics on KSTAR, *Review of Scientiﬁc Instruments* **81**, 10D933 (2010).
+{% for post in site.publications reversed %} {% include archive-single-cv.html %} {% endfor %}
 
 Project experience
 ------
