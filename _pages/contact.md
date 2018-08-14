@@ -4,10 +4,6 @@ permalink: /link/
 author_profile: true
 ---
 
-* [Pohang University of Science and Technology (POSTECH)](http://www.postech.ac.kr/eng/)
-* [Complexity in Social System (CS<sup>2</sup>) Lab.](http://complex.postech.ac.kr)
-* [Department of Physics at POSTECH](http://phome.postech.ac.kr/user/pheng/index.html)
-* [Physicia](http://comphys.postech.ac.kr/link)
-* [Google Scholar: Inho Hong](https://scholar.google.co.kr/citations?user=kmN6l-AAAAAJ&hl=en)
-* [Linkedin: Inho Hong](https://www.linkedin.com/in/inho-hong-ba1b98122)
-
+* Office: Sci. Bldg. 4, Room 412, POSTECH, Pohang 37673, Korea.
+* Phone (office): +82-54-279-8255
+* Email: [ihong@postech.ac.kr](mailto:ihong@postech.ac.kr)
