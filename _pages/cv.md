@@ -30,7 +30,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-{% include_relative other.md %}
+{% include_relative other-content.md %}
 
 Skills and languages
 ------
