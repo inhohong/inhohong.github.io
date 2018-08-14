@@ -12,26 +12,26 @@ redirect_from:
 ## <span style="color:blue"> **[Download CV](https://github.com/inhohong/inhohong.github.io/raw/master/CV_inho%20hong.pdf)** </span>
 
 Education
-======
+------
 * Ph.D. Cadidate in Physics, Pohang University of Science and Technology (Expected to Graduate in February 2019)
 * M.S. in Physics, Pohang University of Science and Technology, 2012.
 * B.S. in Physics, Pohang University of Science and Technology, 2010.
 
 Research interests
-======
+------
 * Modeling universal patterns in cities
 * Economic complexity
 * Human mobility models and their application to data
 * Evolution of knowledge structure
 
 Publications
-======
+------
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Research experience
-======
+------
 * October 2017-Present: Visiting Predoctoral Fellow
   * Kellogg School of Management, Northwestern University, USA
   * Northwestern Institute on Complex Systems, Northwestern University, USA
@@ -43,13 +43,13 @@ Research experience
   * Aalto University, Finland
   
 Talks
-======
+------
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching experience
-======
+------
 * Teaching assistant at Pohang University of Science and Technology
   * Analytical Mechanics, Spring 2013.
   * Electrodynamics I, Spring 2011.
@@ -57,12 +57,12 @@ Teaching experience
   * Electronics & Instrumentation Lab, Spring 2010.
 
 Project experience
-======
+------
 * Physicia Upgrade
   * Upgrade and develop educational software “Physicia” for demonstrating simulations on statistical physics and nonlinear dynamics, March 2016 - September 2016. **[LINK]**(http://comphys.postech.ac.kr)
 
 Awards and fellowships
-======
+------
 * Global Ph.D. Fellowship
   * Program National Research Foundation of Korea (NRF), March 2014–February 2017.
 * Samsung Undergraduate Scholarship
@@ -81,6 +81,6 @@ Awards and fellowships
   * Dept. of Physics, POSTECH, 2009.
 
 Skills and languages
-======
+------
 * MATLAB, Python, C
 * Korean (native), English (advanced)
