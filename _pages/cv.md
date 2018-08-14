@@ -1,13 +1,10 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
 
 ## <span style="color:blue"> **[Download CV](https://github.com/inhohong/inhohong.github.io/raw/master/files/CV_inho%20hong.pdf)** </span>
 
