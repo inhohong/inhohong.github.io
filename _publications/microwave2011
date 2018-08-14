@@ -1,12 +1,12 @@
 ---
-title: "Application of gravity model on the Korean urban bus network"
+title: "Microwave imaging reflectometry system for KSTAR"
 collection: publications
 permalink: 
-date: 2016-11-15
-venue: 'Physica A: Statistical Mechanics and its Applications 462'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0378437116303235'
-citation: 'I. Hong and W.-S. Jung, &quot;Application of gravity model on the Korean urban bus network&quot;, <i>Physica A</i> <b>462</b>, 48-55 (2016).'
+date: 2011-07-01
+venue: 'Plasma and Fusion Research'
+paperurl: 'https://www.jstage.jst.go.jp/article/pfr/6/0/6_0_2402037/_article/-char/ja/'
+citation: 'W. Lee <i>, &quot;Microwave imaging reflectometry system for KSTAR&quot;, <i>Plasma and Fusion Research</i> <b>6</b>, 2402037-2402037 (2011).'
 ---
-Mobility models have been studied to describe the underlying mechanism of human mobility. The mobility patterns in various transportation systems were understood with the gravity model by estimating the traffic as a simple function of population and distance. Compared to most studies on large-scale systems, we focused on the validity and characteristics of gravity model for intraurban mobility. Several variations of gravity model are applied on the urban bus systems of five medium-sized cities in Korea. The gravity model successfully estimates the intraurban traffic without universal exponents for cities. From the change of exponents by predictor types, we figure out the effect by a non-trivial relation between traffic and population in the urban areas.
+A new microwave imaging reflectometry (MIR) system for KSTAR is being developed based on the experience gained via the TEXTOR proof-of-principle system [H. Park <i>et al.</i>, <i>Rev. Sci. Instrum.</i> <b>74</b>, 4239 (2003)] which aimed to measure the poloidal image of the electron density fluctuations essential for transport studies. The KSTAR system will adopt a multi-frequency probe beam source in the range of 90∼ 100GHz (X-mode case), which will enable the measurement of 2-D (radial and poloidal) fluctuations of the multiple cut-off layers, simultaneously. The optical system of the MIR system will be combined with the 2nd ECEI system (identical to the first ECEI system [GS Yun <i>et al.</i>, <i>Rev. Sci. Instrum.</i> <b>81</b>, 10D930 (2010)]) on KSTAR. The design of the launching and receiving optics of the MIR system will be constrained in order to maintain the performance of the ECEI system and thus it is necessary to consider sharing the zoom lens of the ECEI system. This stringent constraint is a challenge considering the tight wavefront matching requirement to obtain proper images for a wide range of cut-off layers within the focal depth. This paper discusses the details of the MIR system design that is compatible with the 2nd ECEI system on KSTAR.
 
 Citation: I. Hong and W.-S. Jung, &quot;Application of gravity model on the Korean urban bus network&quot;, <i>Physica A</i> <b>462</b>, 48-55 (2016).
