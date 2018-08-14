@@ -8,7 +8,7 @@ permalink: /other/
 {% include base_path %}
 
 Research experience
-======
+------
 * October 2017-Present: Visiting Predoctoral Fellow
   * Kellogg School of Management, Northwestern University, USA
   * Northwestern Institute on Complex Systems, Northwestern University, USA
@@ -20,7 +20,7 @@ Research experience
   * Aalto University, Finland
 
 Teaching experience
-======
+------
 * Teaching assistant at Pohang University of Science and Technology
   * Analytical Mechanics, Spring 2013.
   * Electrodynamics I, Spring 2011.
@@ -28,11 +28,11 @@ Teaching experience
   * Electronics & Instrumentation Lab, Spring 2010.
 
 Project experience
-======
+------
 * Physicia Upgrade: Upgrade and develop educational software “Physicia” for demonstrating simulations on statistical physics and nonlinear dynamics, March 2016 - September 2016 [LINK](http://comphys.postech.ac.kr)
 
 Awards and fellowships
-======
+------
 * Global Ph.D. Fellowship
   * Program National Research Foundation of Korea (NRF), March 2014–February 2017.
 * Samsung Undergraduate Scholarship
@@ -51,7 +51,7 @@ Awards and fellowships
   * Dept. of Physics, POSTECH, 2009.
 
 Skills and languages
-======
+------
 * MATLAB, Python, C
 * Korean (native), English (advanced)
 
