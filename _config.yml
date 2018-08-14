@@ -5,12 +5,15 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+plugins:
+  - jekyll-seo-tag
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Inho Hong"
 title_separator          : "-"
 name                     : &name "Inho Hong"
-description              : &description ""
+description              : &description "About Inho Hong"
 url                      : https://inhohong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "inhohong/inhohong.github.io"
