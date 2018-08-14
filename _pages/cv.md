@@ -79,3 +79,4 @@ Skills and languages
 * MATLAB, Python, C
 * Korean (native), English (advanced)
 
+{% include_relative other.md %}
