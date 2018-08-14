@@ -46,10 +46,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Fellowships (selected)
+Fellowships
 ------
-* Global Ph.D. Fellowship, Program National Research Foundation of Korea (NRF), March 2014–February 2017.
-* Samsung Undergraduate Scholarship, Samsung Electro-Mechanics, March 2006-February 2010.
+* Global Ph.D. Fellowship
+  * Program National Research Foundation of Korea (NRF), March 2014–February 2017.
+* Samsung Undergraduate Scholarship
+  * Samsung Electro-Mechanics, March 2006-February 2010.
 
 Skills and languages
 ------
