@@ -19,6 +19,11 @@ Research experience
 * February 2015
   * Aalto University, Finland
 
+Project experience
+------
+* Physicia Upgrade
+  * Upgrade and develop educational software “Physicia” for demonstrating simulations on statistical physics and nonlinear dynamics, March 2016 - September 2016. **[[LINK]](http://comphys.postech.ac.kr)**
+
 Teaching experience
 ------
 * Teaching assistant at Pohang University of Science and Technology
@@ -26,11 +31,6 @@ Teaching experience
   * Electrodynamics I, Spring 2011.
   * Electronics & Instrumentation Lab, Fall 2010. 
   * Electronics & Instrumentation Lab, Spring 2010.
-
-Project experience
-------
-* Physicia Upgrade
-  * Upgrade and develop educational software “Physicia” for demonstrating simulations on statistical physics and nonlinear dynamics, March 2016 - September 2016. **[[LINK]](http://comphys.postech.ac.kr)**
 
 Awards and fellowships
 ------
