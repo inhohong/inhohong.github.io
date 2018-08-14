@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## <span style="color:blue"> *[Download CV](https://github.com/inhohong/inhohong.github.io/raw/master/CV_inho%20hong.pdf)* </span>
+## <span style="color:blue"> **[Download CV](https://github.com/inhohong/inhohong.github.io/raw/master/CV_inho%20hong.pdf)** </span>
 
 Education
 ======
