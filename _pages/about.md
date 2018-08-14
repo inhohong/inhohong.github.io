@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at [Complexity in Social System (CS<sup>2</sup>) Lab.](http://complex.postech.ac.kr) in [Pohang University of Science and Technology](http://www.postech.ac.kr/eng/), Korea, and a visiting predoctoral fellow at [Kellogg School of Management](https://www.kellogg.northwestern.edu) and [Northwestern Institute on Complex Systems](https://www.nico.northwestern.edu) at Northwestern University, USA. My research focuses on understanding social systems through data analysis and mathematical modeling, with a particular interest on economic complexity, knowledge structure, and human mobility.
+I am a PhD candidate at [Complexity in Social System Lab. (CS<sup>2</sup>)](http://complex.postech.ac.kr) in [Pohang University of Science and Technology](http://www.postech.ac.kr/eng/), Korea, and a visiting predoctoral fellow at [Kellogg School of Management](https://www.kellogg.northwestern.edu) and [Northwestern Institute on Complex Systems](https://www.nico.northwestern.edu) at Northwestern University, USA. My research focuses on understanding social systems through data analysis and mathematical modeling, with a particular interest on economic complexity, knowledge structure, and human mobility.
 
 Education
 ------
