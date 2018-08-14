@@ -12,7 +12,7 @@ Research experience
 
 Project experience
 ------
-* [Physicia](http://comphys.postech.ac.kr) Upgrade
+* **[Physicia](http://comphys.postech.ac.kr)** Upgrade
   * Upgrade and develop educational software “Physicia” for demonstrating simulations on statistical physics and nonlinear dynamics, March 2016 - September 2016.
 
 Teaching experience
