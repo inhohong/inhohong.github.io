@@ -42,12 +42,6 @@ Research experience
 * February 2015
   * Aalto University, Finland
   
-Talks
-------
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching experience
 ------
 * Teaching assistant at Pohang University of Science and Technology
