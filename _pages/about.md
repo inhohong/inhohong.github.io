@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Inho is a visiting predoctoral fellow at Kellogg School of Management and NICO, and a PhD candidate at Pohang University of Science and Technology, Korea. His research focuses on understanding social systems through data analysis and mathematical modeling, with a particular interest on economic complexity, knowledge structure, and human mobility.
+I am a PhD candidate at Pohang University of Science and Technology, Korea, and a visiting predoctoral fellow at Kellogg School of Management and Northwestern Institute on Complex Systems. My research focuses on understanding social systems through data analysis and mathematical modeling, with a particular interest on economic complexity, knowledge structure, and human mobility.
 
 
 THIS SITE IS IN CONSTRUCTION: 
 ======
-LAST UPDATE: 08/13/2018
+LAST UPDATE: 08/14/2018
 
 Education
 ------
@@ -46,28 +46,14 @@ Publications
 * W. Lee et al., Comparative study between the reﬂective optics and lens based system for microwave imaging system on KSTAR, *Review of Scientiﬁc Instruments* **81**, 10D932 (2010).
 * H. K. Park et al., Microwave imaging reﬂectometry studies for turbulence diagnostics on KSTAR, *Review of Scientiﬁc Instruments* **81**, 10D933 (2010).
 
-Teaching experience
-------
-* Teaching assistant, Analytical Mechanics, Spring 2013.
-* Teaching assistant, Electrodynamics I, Spring 2011.
-* Teaching assistant, Electronics & Instrumentation Lab, Fall 2010. 
-* Teaching assistant, Electronics & Instrumentation Lab, Spring 2010.
-
 Project experience
 ------
 * Physicia Upgrade: Upgrade and develop educational software “Physicia” for demonstrating simulations on statistical physics and nonlinear dynamics, March 2016 - September 2016 [LINK](http://comphys.postech.ac.kr)
 
-Awards and fellowships
+Awards and fellowships (selected)
 ------
 * Global Ph.D. Fellowship, Program National Research Foundation of Korea (NRF), March 2014–February 2017.
 * Samsung Undergraduate Scholarship, Samsung Electro-Mechanics, March 2006-February 2010.
-* Excellent Poster Presentation Award, 2017 Korean Physical Society Spring Meeting, April 2017.
-* Excellent Oral Presentation Award, 2016 Korean Physical Society Fall Meeting, October 2016.
-* Excellent Poster Presentation Award, 2013 Korean Physical Society Fall Meeting, October 2013.
-* Excellent Teaching Assistant Award, Electronics & Instrumentation Lab, Dept. of Physics, POSTECH, Fall 2010.
-* Excellent Teaching Assistant Award, Electronics & Instrumentation Lab, Dept. of Physics, POSTECH, Spring 2010.
-* Best Paper Award, Undergraduate Research Program, POSTECH, 2009.
-* Excellent Bachelor Thesis Award, Dept. of Physics, POSTECH, 2009.
 
 Skills and languages
 ------
