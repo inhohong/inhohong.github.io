@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](https://github.com/user/repository/raw/branch/CV_inho%20hong.pdf)
+[Download CV](https://github.com/inhohong/repository/raw/branch/CV_inho%20hong.pdf)
 ------
 
 Education
