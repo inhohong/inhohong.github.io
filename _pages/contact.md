@@ -1,6 +1,6 @@
 ---
-title: "Links"
-permalink: /link/
+title: "Contact"
+permalink: /contact/
 author_profile: true
 ---
 
