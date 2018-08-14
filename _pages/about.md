@@ -44,7 +44,8 @@ Publications
 
 Project experience
 ------
-* Physicia Upgrade: Upgrade and develop educational software “Physicia” for demonstrating simulations on statistical physics and nonlinear dynamics, March 2016 - September 2016 [LINK](http://comphys.postech.ac.kr)
+* Physicia Upgrade
+  * Upgrade and develop educational software “Physicia” for demonstrating simulations on statistical physics and nonlinear dynamics, March 2016 - September 2016 [LINK](http://comphys.postech.ac.kr)
 
 Awards and fellowships (selected)
 ------
