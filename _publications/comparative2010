@@ -1,12 +1,12 @@
 ---
-title: "Application of gravity model on the Korean urban bus network"
+title: "Comparative study between the reflective optics and lens based system for microwave imaging system on KSTAR"
 collection: publications
 permalink: 
-date: 2016-11-15
-venue: 'Physica A: Statistical Mechanics and its Applications 462'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0378437116303235'
-citation: 'I. Hong and W.-S. Jung, &quot;Application of gravity model on the Korean urban bus network&quot;, <i>Physica A</i> <b>462</b>, 48-55 (2016).'
+date: 2010-10-01
+venue: 'Review of Scientific Instruments'
+paperurl: 'https://aip.scitation.org/doi/abs/10.1063/1.3491189'
+citation: 'I. Hong <i>et al.</i>, &quot;Comparative study between the reflective optics and lens based system for microwave imaging system on KSTAR&quot;, <i>Review of Scientific Instruments</i> <b>81</b>, 10D932 (2010).'
 ---
-Mobility models have been studied to describe the underlying mechanism of human mobility. The mobility patterns in various transportation systems were understood with the gravity model by estimating the traffic as a simple function of population and distance. Compared to most studies on large-scale systems, we focused on the validity and characteristics of gravity model for intraurban mobility. Several variations of gravity model are applied on the urban bus systems of five medium-sized cities in Korea. The gravity model successfully estimates the intraurban traffic without universal exponents for cities. From the change of exponents by predictor types, we figure out the effect by a non-trivial relation between traffic and population in the urban areas.
+Recently, two-dimensional microwave imaging diagnostics such as the electron cyclotron emission imaging (ECEI) system and microwave imaging reflectometry (MIR) have been developed to study magnetohydrodynamics instabilities and turbulence in magnetically confined plasmas. These imaging systems utilize large optics to collect passive emission or reflected radiation. The design of this optics can be classified into two different types: reflective or refractive optical systems. For instance, an ECEI/MIR system on the TEXTOR tokamak [Park et al., <i>Rev. Sci. Instrum.</i> <b>75</b>, 3787 (2004)] employed the reflective optics which consisted of two large mirrors, while the TEXTOR ECEI upgrade [B. Tobias et al., <i>Rev. Sci. Instrum.</i> <b>80</b>, 093502 (2009)] and systems on DIII-D, ASDEX-U, and KSTAR adopted refractive systems. Each system has advantages and disadvantages in the standing wave problem and optical aberrations. In this paper, a comparative study between the two optical systems has been performed in order to design a MIR system for KSTAR.
 
-Citation: I. Hong and W.-S. Jung, &quot;Application of gravity model on the Korean urban bus network&quot;, <i>Physica A</i> <b>462</b>, 48-55 (2016).
+Citation: I. Hong <i>et al.</i>, &quot;Comparative study between the reflective optics and lens based system for microwave imaging system on KSTAR&quot;, <i>Review of Scientific Instruments</i> <b>81</b>, 10D932 (2010).
