@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-## <span style="color:blue"> **[Download CV](https://github.com/inhohong/inhohong.github.io/raw/master/files/CV_ihong_web.pdf)** </span>
+/*## <span style="color:blue"> **[Download CV](https://github.com/inhohong/inhohong.github.io/raw/master/files/CV_ihong_web.pdf)** </span>*/
 
 {% include_relative education.md %}
 
