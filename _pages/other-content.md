@@ -1,6 +1,6 @@
 Research experience
 ------
-* October 2017-August 2018: Visiting Predoctoral Fellow
+* October 2017 - August 2018: Visiting Predoctoral Fellow
   * Kellogg School of Management, Northwestern University, USA
   * Northwestern Institute on Complex Systems, Northwestern University, USA
 * June 2017
