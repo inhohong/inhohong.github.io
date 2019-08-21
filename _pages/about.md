@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at [Complexity in Social System (CS<sup>2</sup>) Lab.](http://complex.postech.ac.kr) in [Pohang University of Science and Technology (POSTECH)](http://www.postech.ac.kr/eng/), Korea. My research focuses on understanding social systems through data analysis and mathematical modeling, with a particular interest on economic complexity, knowledge structure, and human mobility.
+I am a PhD at [Complexity in Social System (CS<sup>2</sup>) Lab.](http://complex.postech.ac.kr) in [Pohang University of Science and Technology (POSTECH)](http://www.postech.ac.kr/eng/), Korea. My research focuses on understanding social systems through data analysis and mathematical modeling, with a particular interest on economic complexity, knowledge structure, and human mobility.
 
 {% include_relative education.md %}
 
