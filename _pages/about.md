@@ -12,13 +12,12 @@ I am a Postdoctoral Research Fellow at [Statisical Physics of Complex Dynamics L
 
 {% include_relative education.md %}
 
+{% include_relative work_experience.md %}
+
 {% include_relative research-interest.md %}
 
 Research experience
 ------
-* October 2017 - August 2018: Visiting Predoctoral Fellow
-  * Kellogg School of Management, Northwestern University, USA
-  * Northwestern Institute on Complex Systems, Northwestern University, USA
 * June 2017
   * Harvard Kennedy School, Harvard University, USA
 * February 2016
