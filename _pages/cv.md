@@ -11,7 +11,22 @@ redirect_from:
 
 {% include_relative education.md %}
 
+{% include_relative work-experience.md %}
+
 {% include_relative research-interest.md %}
+
+{% include_relative visiting-experience.md %}
+
+{% include_relative teaching-experience.md %}
+
+{% include_relative project-experience.md %}
+
+{% include_relative honor-all.md %}
+
+Skills and languages
+------
+* MATLAB, Python, C
+* Korean (native), English (advanced)
 
 Publications
 ------
@@ -21,7 +36,3 @@ Publications
 
 {% include_relative other-content.md %}
 
-Skills and languages
-------
-* MATLAB, Python, C
-* Korean (native), English (advanced)
