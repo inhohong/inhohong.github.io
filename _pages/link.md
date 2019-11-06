@@ -1,5 +1,5 @@
 ---
-title: "Links"
+title: "Link"
 permalink: /link/
 author_profile: true
 ---
