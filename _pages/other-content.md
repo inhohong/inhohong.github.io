@@ -1,34 +1,8 @@
 {% include_relative visiting-experience.md %}
 
-Project experience
-------
-* <span style="color:blue">**[Physicia](http://comphys.postech.ac.kr)**</span> Upgrade
-  * Upgrade and develop educational software “Physicia” for demonstrating simulations on statistical physics and nonlinear dynamics, March 2016 - September 2016.
+{% include_relative project-experience.md %}
 
-Teaching experience
-------
-* Teaching assistant at Pohang University of Science and Technology
-  * Analytical Mechanics, Spring 2013.
-  * Electrodynamics I, Spring 2011.
-  * Electronics & Instrumentation Lab, Fall 2010. 
-  * Electronics & Instrumentation Lab, Spring 2010.
+{% include_relative teaching-experience.md %}
 
-Awards and honors
-------
-* Global Ph.D. Fellowship Program
-  * National Research Foundation of Korea (NRF), March 2014–February 2017.
-* Samsung Undergraduate Scholarship
-  * Samsung Electro-Mechanics, March 2006-February 2010.
-* Excellent Poster Presentation Award
-  * 2017 Korean Physical Society Spring Meeting, April 2017.
-  * 2013 Korean Physical Society Fall Meeting, October 2013.
-* Excellent Oral Presentation Award
-  * 2016 Korean Physical Society Fall Meeting, October 2016.
-* Excellent Teaching Assistant Award
-  * Electronics & Instrumentation Lab, Dept. of Physics, POSTECH, Fall 2010.
-  * Electronics & Instrumentation Lab, Dept. of Physics, POSTECH, Spring 2010.
-* Best Paper Award
-  * Undergraduate Research Program, POSTECH, 2009.
-* Excellent Bachelor Thesis Award
-  * Dept. of Physics, POSTECH, 2009.
-  
+{% include_relative honor-all.md %}
+
