@@ -1,4 +1,4 @@
-Research interests
+Research interest
 ------
 * Modeling universal patterns in cities
 * Economic complexity
