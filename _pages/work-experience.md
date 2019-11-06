@@ -1,4 +1,4 @@
-Work Experience
+Work experience
 ------
 * Asia Pacific Center for Theoretical Physics, Korea 
   * Postdoctoral Research Fellow, Statistical Physics of Complex Dyanamics Lab (director: Prof. Hang-Hyun Jo), September 2019 - Present. 
