@@ -34,5 +34,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-{% include_relative other-content.md %}
 
