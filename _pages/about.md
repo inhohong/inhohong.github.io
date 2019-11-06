@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral researcher at [Complex Dynamics Laboratory (CoDyLab)](https://sites.google.com/site/codylab2/) in [Asia Pacific Center for Theoretical Physics](https://www.apctp.org/main/index.php), Korea. My research focuses on understanding social systems through data analysis and mathematical modeling, with a particular interest on economic complexity, knowledge structure, and human mobility.
+I am a Postdoctoral Research Fellow at [Statisical Physics of Complex Dynamics Laboratory (CoDyLab)](https://sites.google.com/site/codylab2/) in [Asia Pacific Center for Theoretical Physics](https://www.apctp.org/main/index.php), Korea. My research focuses on understanding social systems through data analysis and mathematical modeling, with a particular interest on urban science, economic complexity, knowledge structure and human mobility.
 
 {% include_relative education.md %}
 
