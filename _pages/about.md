@@ -12,7 +12,7 @@ I am a Postdoctoral Research Fellow at [Statisical Physics of Complex Dynamics L
 
 {% include_relative education.md %}
 
-{% include_relative work_experience.md %}
+{% include_relative work-experience.md %}
 
 {% include_relative research-interest.md %}
 
