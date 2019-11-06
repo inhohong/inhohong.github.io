@@ -2,7 +2,7 @@
 layout: archive
 title: "Experiences"
 author_profile: true
-permalink: /other/
+permalink: /experience/
 ---
 
 {% include_relative work-experience.md %}
