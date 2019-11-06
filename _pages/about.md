@@ -16,14 +16,7 @@ I am a Postdoctoral Research Fellow at [Statisical Physics of Complex Dynamics L
 
 {% include_relative research-interest.md %}
 
-Research experience
-------
-* June 2017
-  * Harvard Kennedy School, Harvard University, USA
-* February 2016
-  * Santa Fe Institute, USA
-* February 2015
-  * Aalto University, Finland
+{% include_relative visiting-experience.md %}
 
 Publications
 ------
@@ -31,9 +24,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Fellowships
-------
-* Global Ph.D. Fellowship Program
-  * National Research Foundation of Korea (NRF), March 2014–February 2017.
-* Samsung Undergraduate Scholarship
-  * Samsung Electro-Mechanics, March 2006-February 2010.
+{% include_relative fellowship.md %}
