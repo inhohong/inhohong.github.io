@@ -1,14 +1,4 @@
-Research experience
-------
-* October 2017 - August 2018: Visiting Predoctoral Fellow
-  * Kellogg School of Management, Northwestern University, USA
-  * Northwestern Institute on Complex Systems, Northwestern University, USA
-* June 2017
-  * Harvard Kennedy School, Harvard University, USA
-* February 2016
-  * Santa Fe Institute, USA
-* February 2015
-  * Aalto University, Finland
+{% include_relative visiting-experience.md %}
 
 Project experience
 ------
@@ -23,7 +13,7 @@ Teaching experience
   * Electronics & Instrumentation Lab, Fall 2010. 
   * Electronics & Instrumentation Lab, Spring 2010.
 
-Awards and fellowships
+Awards and honors
 ------
 * Global Ph.D. Fellowship Program
   * National Research Foundation of Korea (NRF), March 2014–February 2017.
