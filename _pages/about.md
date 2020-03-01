@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Fellow at [Statisical Physics of Complex Dynamics Laboratory (CoDyLab)](https://sites.google.com/site/codylab2/) in [Asia Pacific Center for Theoretical Physics](https://www.apctp.org/main/index.php), Korea. My research focuses on understanding social systems through data analysis and mathematical modeling, with a particular interest in urban science, human mobility, economic complexity and science of science.
+I am a postdoctoral researcher at Center for Humans & Machines, Max Planck Institute for Human Development, Germany. My research focuses on understanding social systems through data analysis and mathematical modeling, with a particular interest in urban science, human mobility, economic complexity and science of science.
 
 {% include_relative education.md %}
 
