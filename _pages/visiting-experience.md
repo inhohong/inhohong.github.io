@@ -1,5 +1,7 @@
 Visiting experience
 ------
+* [Institute for Basic Science](https://www.ibs.re.kr/eng.do), Korea
+  * [Data Science Group](https://ds.ibs.re.kr), February 2020.
 * [Harvard Kennedy School](https://www.hks.harvard.edu/), Harvard University, USA
   * [Center for International Development](https://www.hks.harvard.edu/centers/cid), June 2017.
 * [Santa Fe Institute](https://www.santafe.edu/), USA
