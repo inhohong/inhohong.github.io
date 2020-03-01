@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+* [Center for Humans and Machines (CHM), Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/chm)
 * [Complex Dynamics Laboratory (CoDyLab)](https://sites.google.com/site/codylab2/)
 * [Asia Pacific Center for Theoretical Physics](https://www.apctp.org/main/index.php)
 * [Complexity in Social System (CS<sup>2</sup>) Lab.](http://complex.postech.ac.kr)
