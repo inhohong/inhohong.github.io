@@ -13,6 +13,6 @@ author_profile: true
 * [Pohang University of Science and Technology (POSTECH)](http://www.postech.ac.kr/eng/)
 * [Department of Physics at POSTECH](http://phome.postech.ac.kr/user/pheng/index.html)
 * [Physicia](http://comphys.postech.ac.kr/link)
-* [Google Scholar: Inho Hong](https://scholar.google.co.kr/citations?user=kmN6l-AAAAAJ&hl=en)
+* [Google Scholar: Inho Hong](https://scholar.google.com/citations?user=kmN6l-AAAAAJ&hl=en)
 * [Linkedin: Inho Hong](https://www.linkedin.com/in/inho-hong-ba1b98122)
 
