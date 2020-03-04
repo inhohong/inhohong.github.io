@@ -1,7 +1,7 @@
 Work experience
 ------
 * [Center for Humans & Machines, Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/chm), Germany
-  * Postdoctoral Researcher, March 2020 - Present.
+  * Postdoctoral Research Fellow, March 2020 - Present.
 * [Asia Pacific Center for Theoretical Physics](https://www.apctp.org/main/index.php), Korea 
   * Postdoctoral Research Fellow, September 2019 - February 2020.
   * [Statisical Physics of Complex Dynamics Lab (CoDyLab)](https://sites.google.com/site/codylab2/) (director: Prof. Hang-Hyun Jo)
