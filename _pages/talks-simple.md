@@ -25,6 +25,7 @@ Oral presentations
 
 Poster presentations
 ------
+1. I. Hong, M. R. Frank, I. Rahwan, W.-S. Jung, H. Youn, "Cities Recapitulate a Universal Pathway to Innovative Economies", *NetSci-X 2020*, Jan 20-23, 2020.
 1. I. Hong, W.-S. Jung, H. Youn, “Who is the shepherd? Small city follows trajectory of larger cities in their economic compositions”, *Conference on Complex Systems 2017*, Sep 17-22, 2017.
 1. I. Hong, W.-S. Jung, H.-H. Jo, "Unifying Framework of Mobility Models on Population Landscape", *2017 Korean Physical Society Spring Meeting*, Apr 19-21, 2017.
 1. H. Kim, I. Hong, W.-S. Jung, "Fusion of nations, fusion of disciplines: network evolution in nuclear fusion research", *2016 Conference on Complex Systems*, Sep 20, 2016.
