@@ -20,6 +20,8 @@ I am a postdoctoral research fellow at [Center for Humans & Machines (CHM)](http
 
 {% include_relative honor-short.md %}
 
+{% include_relative article.md %}
+
 Publications
 ------
   <ul>{% for post in site.publications reversed %}
