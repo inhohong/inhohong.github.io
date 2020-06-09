@@ -10,7 +10,7 @@ plugins:
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Inho Hong"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Inho Hong"
 description              : &description "About Inho Hong"
