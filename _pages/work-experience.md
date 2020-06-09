@@ -6,4 +6,4 @@ Work experience
   * Postdoctoral Research Fellow, Sep. 2019 - Feb. 2020.
   * [Statisical Physics of Complex Dynamics Lab](https://sites.google.com/site/codylab2/) (director: Prof. Hang-Hyun Jo)
 * [Kellogg School of Management](https://www.kellogg.northwestern.edu) & [Northwestern Institute on Complex Systems](https://www.nico.northwestern.edu), Northwestern University, USA
-  * Visiting predoctoral fellow, Oct. 2017 - Aug. 2018. (Supervisor: Prof. Hyejin Youn)
+  * Visiting Predoctoral Fellow, Oct. 2017 - Aug. 2018. (Supervisor: Prof. Hyejin Youn)
