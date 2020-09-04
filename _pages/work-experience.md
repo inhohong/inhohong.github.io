@@ -1,7 +1,8 @@
 Work experience
 ------
-* [Center for Humans & Machines](https://www.mpib-berlin.mpg.de/chm), Max Planck Institute for Human Development, Germany
+* [Center for Humans and Machines](https://www.mpib-berlin.mpg.de/chm) (director: Prof. [Iyad Rahwan](https://rahwan.me/)), [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en), Germany
   * Postdoctoral Research Fellow, Mar 2020 - Present.
+  * 
 * [Seoul Institute of Technology](http://www.sit.re.kr/user/nd24537.do?menuCode=engsite), Korea
   * Visiting Researcher, Aug 2020 - Present.
 * [Asia Pacific Center for Theoretical Physics](https://www.apctp.org/main/index.php), Korea 
