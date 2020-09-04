@@ -23,6 +23,8 @@ redirect_from:
 
 {% include_relative project-experience.md %}
 
+{% include_relative media.md %}
+
 {% include_relative honor-all.md %}
 
 Skills and languages
