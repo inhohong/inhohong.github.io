@@ -7,9 +7,9 @@ author_profile: true
 
 Oral presentations
 ------
-1. A. Rutherford, M. Cebrian, **I. Hong**, Iyad Rahwan, "Social mobilization impeded by political polarization", NetSci 2020, Sep 21-25, 2020.
-1. **I. Hong**, A. Rutherford, L. N. Ferreira, M. Cebrian, "Epidemic-driven conflict and conflict-driven epidemics", NetSci 2020, Sep 21-25, 2020. 
-1. T. You, O.-H. Kwon, **I. Hong**, W.-S. Jung, "Alliance structure between UN Security Council members from debates", NetSci 2020, Sep 21-25, 2020.
+1. A. Rutherford, M. Cebrian, **I. Hong**, Iyad Rahwan, "Social mobilization impeded by political polarization", *NetSci 2020*, Sep 21-25, 2020.
+1. **I. Hong**, A. Rutherford, L. N. Ferreira, M. Cebrian, "Epidemic-driven conflict and conflict-driven epidemics", *NetSci 2020*, Sep 21-25, 2020. 
+1. T. You, O.-H. Kwon, **I. Hong**, W.-S. Jung, "Alliance structure between UN Security Council members from debates", *NetSci 2020*, Sep 21-25, 2020.
 1. **I. Hong**, M. R. Frank, I. Rahwan, W.-S. Jung, H. Youn, "Urban economies recapitulate a common trajectory", *4th Annual International Conference on Computational Social Science*, Jul 12-15, 2018.
 1. **I. Hong**, W.-S. Jung, H. Youn, “Small city follows larger city’s trajectory in urban economy”, *The 19th Workshop for Statistical Physics*, Aug 28-30, 2017.
 1. **I. Hong**, W.-S. Jung, H. Youn, "Structural change in urban industry", *APCTP 2016 Workshop on Frontiers of Physics: Push the Envelope of Statistical Physics: Econo, Social, Bio and Beyond*, Dec 14, 2016.
