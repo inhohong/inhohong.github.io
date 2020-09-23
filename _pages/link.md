@@ -4,7 +4,7 @@ permalink: /link/
 author_profile: true
 ---
 
-{% include base_path %}
+{% include base_path %}  
 [Center for Humans and Machines (CHM)](https://www.mpib-berlin.mpg.de/chm)  
 [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en)  
 [Complex Dynamics Laboratory (CoDyLab)](https://sites.google.com/site/codylab2/)  
