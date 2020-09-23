@@ -59,7 +59,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "@Hong_Inho"
 facebook:
   username               :
   app_id                 :
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "@Hong_Inho" # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
