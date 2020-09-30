@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-**[Download CV](https://github.com/inhohong/inhohong.github.io/raw/master/files/CV_Inho_Hong.pdf)**
+## [Download CV](https://github.com/inhohong/inhohong.github.io/raw/master/files/CV_Inho_Hong.pdf)
 
 <!---## <span style="color:blue"> **[Download CV](https://github.com/inhohong/inhohong.github.io/raw/master/files/CV_ihong_web.pdf)** </span>-->
 
