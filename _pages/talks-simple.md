@@ -7,6 +7,7 @@ author_profile: true
 
 Oral presentations
 ------
+1. **I. Hong**, A. Rutherford, L. N. Ferreira, M. Cebrian, "Epidemic-driven conflict and conflict-driven epidemics", *Complex Networks 2020*, Dec 1-3, 2020. 
 1. A. Rutherford, M. Cebrian, **I. Hong**, Iyad Rahwan, "Social mobilization impeded by political polarization", *NetSci 2020*, Sep 21-25, 2020.
 1. **I. Hong**, A. Rutherford, L. N. Ferreira, M. Cebrian, "Epidemic-driven conflict and conflict-driven epidemics", *NetSci 2020*, Sep 21-25, 2020. 
 1. T. You, O.-H. Kwon, **I. Hong**, W.-S. Jung, "Alliance structure between UN Security Council members from debates", *NetSci 2020*, Sep 21-25, 2020.
@@ -28,6 +29,9 @@ Oral presentations
 
 Poster presentations
 ------
+1. **I. Hong**, M. Kwon, J. Kim, S. Na, W.-S. Jung, "Urban scaling and transition in Korean economy", *2020 Korean Physical Society Fall Meeting*, Nov 4-6, 2020.
+1. O.-H. Kwon, **I. Hong**, W.-S. Jung and H.-H. Jo, "Explaining the varying exponent of gravity model on urban landscapes", *2020 Korean Physical Society Fall Meeting*, Nov 4-6, 2020.
+1. **I. Hong**, M. R. Frank, I. Rahwan, W.-S. Jung, H. Youn, "Cities Recapitulate a Universal Pathway to Innovative Economies", *NetSci-X 2020*, Jan 20-23, 2020.
 1. **I. Hong**, M. R. Frank, I. Rahwan, W.-S. Jung, H. Youn, "Cities Recapitulate a Universal Pathway to Innovative Economies", *NetSci-X 2020*, Jan 20-23, 2020.
 1. **I. Hong**, W.-S. Jung, H. Youn, “Who is the shepherd? Small city follows trajectory of larger cities in their economic compositions”, *Conference on Complex Systems 2017*, Sep 17-22, 2017.
 1. **I. Hong**, W.-S. Jung, H.-H. Jo, "Unifying Framework of Mobility Models on Population Landscape", *2017 Korean Physical Society Spring Meeting*, Apr 19-21, 2017.
