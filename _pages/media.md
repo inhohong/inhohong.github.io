@@ -1,6 +1,6 @@
 Media coverage
 ------
-* ["The universal pathway to innovative urban economies"](https://advances.sciencemag.org/content/6/34/eaba4934), *Science Advances* (2020)].
+* ["The universal pathway to innovative urban economies"](https://advances.sciencemag.org/content/6/34/eaba4934), *Science Advances* (2020).
   * ["What it takes for a city to jump into the knowledge economy"](https://qz.com/1896539/what-it-takes-for-a-city-to-jump-into-the-knowledge-economy/), Quartz.
   * ["Working from 'anywhere' is possible — but not sustainable"](https://www.fastcompany.com/90545523/working-from-anywhere-is-possible-but-not-sustainable), Fast Company.
   * ["Innovative cities follow a unique historical pattern"](https://news.northwestern.edu/stories/2020/08/innovative-cities-follow-a-unique-historical-pattern-study-shows/), Northwestern NOW.
