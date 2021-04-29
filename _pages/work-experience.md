@@ -1,4 +1,4 @@
-Work experience
+Positions
 ------
 * [Center for Humans and Machines](https://www.mpib-berlin.mpg.de/chm) (Director: [Iyad Rahwan](https://rahwan.me/)), [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en), Germany
   * Postdoctoral Research Fellow, Mar 2020 - Present.
