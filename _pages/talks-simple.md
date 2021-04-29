@@ -7,6 +7,7 @@ author_profile: true
 
 Oral presentations
 ------
+1. **I. Hong**, A. Rutherford, M. Cebrian, "Polarized social mobilization for pandemic control", *2021 Korean Physical Society Spring Meeting*, Apr 21-23, 2021.
 1. **I. Hong**, A. Rutherford, L. N. Ferreira, M. Cebrian, "Epidemic-driven conflict and conflict-driven epidemics", *Complex Networks 2020*, Dec 1-3, 2020. 
 1. A. Rutherford, M. Cebrian, **I. Hong**, Iyad Rahwan, "Social mobilization impeded by political polarization", *NetSci 2020*, Sep 21-25, 2020.
 1. **I. Hong**, A. Rutherford, L. N. Ferreira, M. Cebrian, "Epidemic-driven conflict and conflict-driven epidemics", *NetSci 2020*, Sep 21-25, 2020. 
