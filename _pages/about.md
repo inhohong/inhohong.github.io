@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research fellow at [Center for Humans and Machines (CHM)](https://www.mpib-berlin.mpg.de/chm), [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en), Germany. My research focuses on understanding social systems through data analysis and mathematical modeling, with a particular interest in scaling theory, social mobilization, urban science, human mobility, economic complexity and science of science.
+I am a postdoctoral research fellow at [Center for Humans and Machines (CHM)](https://www.mpib-berlin.mpg.de/chm), [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en), Germany. My research focuses on understanding society through data analysis and mathematical modeling, with a particular interest in social mobilization, future of work, science of cities, human mobility, and science of science.
 
 {% include_relative education.md %}
 
