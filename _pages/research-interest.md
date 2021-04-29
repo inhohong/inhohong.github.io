@@ -1,7 +1,8 @@
-Research interest
+Research interests
 ------
+* Computational social science
 * Social mobilization
 * Future of work
 * Science of cities
-* Human mobility models and their application to data
-* Evolution of knowledge structure from bibliographic data
+* Human mobility
+* Science of science
