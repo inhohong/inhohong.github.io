@@ -1,7 +1,8 @@
 Honors (selected)
 ------
 * Young Statistical Physicist Award
-  * Korean Physical Society, Apr 2021.
+  * [Korean Physical Society](http://www.kps.or.kr/content/community/post_view.php?bt=2&post_id=2231), Apr 2021.
+  * [Award news by MPIB](https://www.mpib-berlin.mpg.de/awards/inho-hong-awarded-by-the-korean-physical-society)
 * Excellent Poster Presentation Award
   * 2017 Korean Physical Society Spring Meeting, 2017.04.
   * 2013 Korean Physical Society Fall Meeting, 2013.10.
