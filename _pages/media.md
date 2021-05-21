@@ -9,5 +9,6 @@ Media coverage
   * ["스마트시티 될수록 도시·시골 간 양극화 더 확대된다"](https://www.mk.co.kr/news/it/view/2020/08/866040/), 매일경제 (in Korean).
 * ["Social mobilization and polarization can create volatility in COVID-19 pandemic control"](https://link.springer.com/article/10.1007/s41109-021-00356-9), *Applied Network Science* (2021).
   * ["Polarization and mobilization on social media affect infection figures"](https://www.mpg.de/16818769/0503-bild-polarization-and-mobilization-on-social-media-affect-infection-figures-149835-x), Max-Planck-Gesellschaft.
-  * ["Polarization and mobilization on social media affect infection figures"](https://idw-online.de/de/news768028), idw online.
-  * ["Forscher sehen Zusammenhang zwischen SARS-CoV-2-Infektionen und sozialen Medien"](https://www.heise.de/news/Forscher-sehen-Zusammenhang-zwischen-Covid-19-Infektionen-und-sozialen-Medien-6038187.html), heise online.
+  * ["Polarization and mobilization on social media affect infection figures"](https://idw-online.de/de/news768028), IDW Online.
+  * ["Forscher sehen Zusammenhang zwischen SARS-CoV-2-Infektionen und sozialen Medien"](https://www.heise.de/news/Forscher-sehen-Zusammenhang-zwischen-Covid-19-Infektionen-und-sozialen-Medien-6038187.html), Heise Online.
+  * ["Max-Planck-Institut: Facebook verbreitet Corona"](https://www.berliner-zeitung.de/zukunft-technologie/forscher-soziale-medien-foerdern-die-verbreitung-des-coronavirus-li.158706?utm_medium=Social&utm_source=Twitter#Echobox=1621411072), Berliner Zeitung.
