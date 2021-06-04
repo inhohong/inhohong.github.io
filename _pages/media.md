@@ -12,3 +12,4 @@ Media coverage
   * ["Polarization and mobilization on social media affect infection figures"](https://idw-online.de/de/news768028), IDW Online.
   * ["Forscher sehen Zusammenhang zwischen SARS-CoV-2-Infektionen und sozialen Medien"](https://www.heise.de/news/Forscher-sehen-Zusammenhang-zwischen-Covid-19-Infektionen-und-sozialen-Medien-6038187.html), Heise Online.
   * ["Max-Planck-Institut: Facebook verbreitet Corona"](https://www.berliner-zeitung.de/zukunft-technologie/forscher-soziale-medien-foerdern-die-verbreitung-des-coronavirus-li.158706?utm_medium=Social&utm_source=Twitter#Echobox=1621411072), Berliner Zeitung.
+  * ["Wie Menschen auf Corona-Maßnahmen reagieren"](https://www.deutschlandfunk.de/zwischen-freiheit-und-pflicht-wie-menschen-auf-corona.1148.de.html?dram:article_id=497887), Deutschlandfunk.
