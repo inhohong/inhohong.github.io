@@ -13,3 +13,6 @@ Media coverage
   * ["Forscher sehen Zusammenhang zwischen SARS-CoV-2-Infektionen und sozialen Medien"](https://www.heise.de/news/Forscher-sehen-Zusammenhang-zwischen-Covid-19-Infektionen-und-sozialen-Medien-6038187.html), Heise Online.
   * ["Max-Planck-Institut: Facebook verbreitet Corona"](https://www.berliner-zeitung.de/zukunft-technologie/forscher-soziale-medien-foerdern-die-verbreitung-des-coronavirus-li.158706?utm_medium=Social&utm_source=Twitter#Echobox=1621411072), Berliner Zeitung.
   * ["Wie Menschen auf Corona-Maßnahmen reagieren"](https://www.deutschlandfunk.de/zwischen-freiheit-und-pflicht-wie-menschen-auf-corona.1148.de.html?dram:article_id=497887), Deutschlandfunk.
+* ["Urban green space and happiness in developed countries"](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00278-7), *EPJ Data Science* (2021).
+  * ["'숲세권 아파트' 뜨는 이유 있었네...녹지 1위 핀란드의 경험"](https://news.joins.com/article/24077739), 중앙일보 (in Korean).
+  * ["선진국에선 경제 성장보다 도심 녹지가 시민 행복에 결정적"](https://www.yna.co.kr/view/AKR20210608046400063?input=1195m), 연합뉴스 (in Korean).
