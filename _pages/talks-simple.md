@@ -7,6 +7,10 @@ author_profile: true
 
 Oral presentations
 ------
+1. **I. Hong**, Leonardo N. Ferreira, A. Rutherford and M. Cebrian, "Epidemic-driven protests and protest-driven epidemics", *7th International Conference on Computational Social Science (IC2S2)*, Jul 30, 2021 (accepted).
+1. **I. Hong**, Leonardo N. Ferreira, A. Rutherford and M. Cebrian, "Interplay of protests and epidemics during the COVID-19 pandemic", *Networks 2021*, Jul 10, 2021.
+1. Leonardo N. Ferreira, **I. Hong**, A. Rutherford and M. Cebrian, "The small-world network of protests", *Networks 2021*, Jul 9, 2021.
+1. D. Kim, D. Lee, J. Myung, C. Jung, **I. Hong**, D. S\'{a}ez-Trumper, J. Yun, W.-S. Jung, M. Cha, "Information structure analysis of COVID-19 pandemic using Wikipedia data", *Korea Computer Congress 2021*, Jun 23, 2021 (**Best Paper Award**).
 1. **I. Hong**, A. Rutherford, M. Cebrian, "Polarized social mobilization for pandemic control", *2021 Korean Physical Society Spring Meeting*, Apr 21-23, 2021.
 1. **I. Hong**, A. Rutherford, L. N. Ferreira, M. Cebrian, "Epidemic-driven conflict and conflict-driven epidemics", *Complex Networks 2020*, Dec 1-3, 2020. 
 1. A. Rutherford, M. Cebrian, **I. Hong**, Iyad Rahwan, "Social mobilization impeded by political polarization", *NetSci 2020*, Sep 21-25, 2020.
