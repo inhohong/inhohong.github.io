@@ -4,8 +4,6 @@
 
 * **I. Hong**, M. R. Frank, I. Rahwan, W.-S. Jung and H. Youn, "The universal pathway to innovative urban economies", *Science Advances* **6**, eaba4934 (2020). [https://doi.org/10.1126/sciadv.aba4934](https://doi.org/10.1126/sciadv.aba4934)
 
-* A. Rutherford, M. Cebrian, **I. Hong** and I. Rahwan, "Impossible by Conventional Means: Ten Years on from the DARPA Red Balloon Challenge", *arXiv:2008.05940* (2020). 
-
 * **I. Hong**, W.-S. Jung and H.-H. Jo, "Gravity model explained by the radiation model on a population landscape", *PLoS ONE* **14**, e0218028 (2019). [https://doi.org/10.1371/journal.pone.0218028](https://doi.org/10.1371/journal.pone.0218028)
 
 * H. Kim, **I. Hong** and W.-S. Jung, "Measuring national capability over big science’s multidisciplinarity: A case study of nuclear fusion research", *PLoS ONE* **14**, e0211963 (2019). [https://doi.org/10.1371/journal.pone.0211963](https://doi.org/10.1371/journal.pone.0211963)
