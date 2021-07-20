@@ -7,6 +7,6 @@ Positions
   * Visiting Researcher, Aug 2020 - Dec 2020.
 * [Asia Pacific Center for Theoretical Physics](https://www.apctp.org/main/index.php), Korea 
   * Postdoctoral Research Fellow, Sep 2019 - Feb 2020.
-  * [Statisical Physics of Complex Dynamics Lab](https://sites.google.com/site/codylab2/) (Director: [Hang-Hyun Jo](https://sites.google.com/site/h2jo23/))
+  * [Statisical Physics of Complex Dynamics Lab](https://sites.google.com/site/codylab2/) (Leader: [Hang-Hyun Jo](https://sites.google.com/site/h2jo23/))
 * [Kellogg School of Management](https://www.kellogg.northwestern.edu) & [Northwestern Institute on Complex Systems](https://www.nico.northwestern.edu), Northwestern University, USA
   * Visiting Predoctoral Fellow, Oct 2017 - Aug 2018. (Supervisor: [Hyejin Youn](http://hyoun.me/))
