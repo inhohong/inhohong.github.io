@@ -1,4 +1,4 @@
-Media coverage
+Media coverage (selected)
 ------
 * ["The universal pathway to innovative urban economies"](https://advances.sciencemag.org/content/6/34/eaba4934), *Science Advances* (2020).
   * ["Is It Really Possible For The Next Silicon Valley To Emerge In A Small Town?"](https://www.forbes.com/sites/adigaskell/2021/01/12/is-it-really-possible-for-the-next-silicon-valley-to-emerge-in-a-small-town/?sh=29e454b26722&fbclid=IwAR3ecQo8-eL8I5CldlTCHF0z-hct4FzTcAMNt7EZo2nPg8YJjrlVfcSGtCc), Forbes.
