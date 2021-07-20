@@ -1,6 +1,6 @@
 Recent publications
 ------
-* O.-H. Kwon, **I. Hong**, J. Yang, D. Y. Wohn, W.-S. Jung and M. Cha, "Urban green space and happiness in developed countries", *EPJ Data Science* **10**, 28 (2021). [https://doi.org/10.1140/epjds/s13688-021-00278-7](https://doi.org/10.1140/epjds/s13688-021-00278-7)
+* O.-H. Kwon^*^, **I. Hong**^*^ (^*^equal contribution), J. Yang, D. Y. Wohn, W.-S. Jung and M. Cha, "Urban green space and happiness in developed countries", *EPJ Data Science* **10**, 28 (2021). [https://doi.org/10.1140/epjds/s13688-021-00278-7](https://doi.org/10.1140/epjds/s13688-021-00278-7)
 
 * **I. Hong**, A. Rutherford and M. Cebrian, "Social mobilization and polarization can create volatility in COVID-19 pandemic control", *Applied Network Science* **6**, 1 (2021). [https://doi.org/10.1007/s41109-021-00356-9](https://doi.org/10.1007/s41109-021-00356-9)
 
@@ -8,7 +8,7 @@ Recent publications
 
 * **I. Hong**, W.-S. Jung and H.-H. Jo, "Gravity model explained by the radiation model on a population landscape", *PLoS ONE* **14**, e0218028 (2019). [https://doi.org/10.1371/journal.pone.0218028](https://doi.org/10.1371/journal.pone.0218028)
 
-* H. Kim, **I. Hong** and W.-S. Jung, "Measuring national capability over big science’s multidisciplinarity: A case study of nuclear fusion research", *PLoS ONE* **14**, e0211963 (2019). [https://doi.org/10.1371/journal.pone.0211963](https://doi.org/10.1371/journal.pone.0211963)
+* H. Kim^*^, **I. Hong^*^** (^*^equal contribution) and W.-S. Jung, "Measuring national capability over big science’s multidisciplinarity: A case study of nuclear fusion research", *PLoS ONE* **14**, e0211963 (2019). [https://doi.org/10.1371/journal.pone.0211963](https://doi.org/10.1371/journal.pone.0211963)
 
 * **I. Hong** and W.-S. Jung, "Application of gravity model on the Korean urban bus network", *Physica A* **462**, 48-55 (2016). [https://doi.org/10.1016/j.physa.2016.06.055](https://doi.org/10.1016/j.physa.2016.06.055)
 
