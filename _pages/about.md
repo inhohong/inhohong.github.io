@@ -22,10 +22,8 @@ I am a postdoctoral research fellow at [Center for Humans and Machines (CHM)](ht
 
 {% include_relative media.md %}
 
-Publications
-------
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% include_relative preprints.md %}
+
+{% include_relative recent_publications.md %}
 
 
