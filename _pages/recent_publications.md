@@ -1,5 +1,7 @@
 Recent publications
 ------
+* L. N. Ferreira, **I. Hong**, A. Rutherford and M. Cebrian, "The small-world network of global protests", *Scientific Reports* **11**, 19215 (2021). [https://doi.org/10.1038/s41598-021-98628-y](https://doi.org/10.1038/s41598-021-98628-y)
+
 * O.-H. Kwon&#42;, **I. Hong**&#42; (&#42;equal contribution), J. Yang, D. Y. Wohn, W.-S. Jung and M. Cha, "Urban green space and happiness in developed countries", *EPJ Data Science* **10**, 28 (2021). [https://doi.org/10.1140/epjds/s13688-021-00278-7](https://doi.org/10.1140/epjds/s13688-021-00278-7)
 
 * **I. Hong**, A. Rutherford and M. Cebrian, "Social mobilization and polarization can create volatility in COVID-19 pandemic control", *Applied Network Science* **6**, 1 (2021). [https://doi.org/10.1007/s41109-021-00356-9](https://doi.org/10.1007/s41109-021-00356-9)
