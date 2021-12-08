@@ -7,6 +7,7 @@ author_profile: true
 
 Oral presentations
 ------
+1. **I. Hong**, L. N. Ferreira, A. Rutherford and M. Cebrian, "Protest-driven epidemics during the COVID-19 pandemic", *Complex Networks 2021*, Dec 1, 2021.
 1. **I. Hong**, L. N. Ferreira, A. Rutherford and M. Cebrian, "Epidemic-driven protests and protest-driven epidemics", *7th International Conference on Computational Social Science (IC2S2)*, Jul 30, 2021.
 1. **I. Hong**, L. N. Ferreira, A. Rutherford and M. Cebrian, "Interplay of protests and epidemics during the COVID-19 pandemic", *Networks 2021*, Jul 10, 2021.
 1. L. N. Ferreira, **I. Hong**, A. Rutherford and M. Cebrian, "The small-world network of protests", *Networks 2021*, Jul 9, 2021.
