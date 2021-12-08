@@ -5,7 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-Oral presentations
+Invited talks
+------
+1. **I. Hong**, "Complex interplay between socio-spatial components of cities", *2021 Korean Physical Society Fall Meeting*, Oct 20, 2021.
+
+Oral talks
 ------
 1. **I. Hong**, L. N. Ferreira, A. Rutherford and M. Cebrian, "Protest-driven epidemics during the COVID-19 pandemic", *Complex Networks 2021*, Dec 1, 2021.
 1. **I. Hong**, L. N. Ferreira, A. Rutherford and M. Cebrian, "Epidemic-driven protests and protest-driven epidemics", *7th International Conference on Computational Social Science (IC2S2)*, Jul 30, 2021.
@@ -33,7 +37,7 @@ Oral presentations
 1. **I. Hong**, W.-S. Jung, "Intra-City Bus Network Analysis on the Korean Cities for Understanding Urban Structures", *The 17th Workshop for Statistical Physics*, Nov 2, 2013.
 1. **I. Hong**, W.-S. Jung, "Intra-city Bus Network in Korean Mid-size Cities", *Econophysics Colloquium 2013 & Asia Pacific Econophysics Conference 2013*, Jul 30, 2013.
 
-Poster presentations
+Posters
 ------
 1. **I. Hong**, M. Kwon, J. Kim, S. Na, W.-S. Jung, "Urban scaling and transition in Korean economy", *2020 Korean Physical Society Fall Meeting*, Nov 4-6, 2020.
 1. O.-H. Kwon, **I. Hong**, W.-S. Jung and H.-H. Jo, "Explaining the varying exponent of gravity model on urban landscapes", *2020 Korean Physical Society Fall Meeting*, Nov 4-6, 2020.
