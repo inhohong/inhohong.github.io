@@ -5,6 +5,8 @@ permalink: /publication/
 author_profile: true
 ---
 
+You can also find my publications on my [Google Scholar](https://scholar.google.com/citations?user=kmN6l-AAAAAJ) profile.
+
 1. L. N. Ferreira, **I. Hong**, A. Rutherford and M. Cebrian, "The small-world network of global protests", *Scientific Reports* **11**, 19215 (2021). [[paper]](https://doi.org/10.1038/s41598-021-98628-y)
 
 1. O.-H. Kwon&#42;, **I. Hong**&#42; (&#42;equal contribution), J. Yang, D. Y. Wohn, W.-S. Jung and M. Cha, "Urban green space and happiness in developed countries", *EPJ Data Science* **10**, 28 (2021). [[paper]](https://doi.org/10.1140/epjds/s13688-021-00278-7)
