@@ -6,7 +6,7 @@ redirect_from:
   - /resume
 ---
 ## [Download CV](https://github.com/inhohong/inhohong.github.io/raw/master/images/CV_Inho_Hong.pdf)
-(updated on May 15, 2022).
+updated on May 15, 2022.
 
 
 <!---## <span style="color:blue"> **[Download CV](https://github.com/inhohong/inhohong.github.io/raw/master/files/CV_ihong_web.pdf)** </span>-->
