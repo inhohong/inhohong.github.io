@@ -5,7 +5,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-## [Download CV](https://github.com/inhohong/inhohong.github.io/raw/master/images/CV_Inho_Hong.pdf) 
+<font size="3"> [Download CV](https://github.com/inhohong/inhohong.github.io/raw/master/images/CV_Inho_Hong.pdf) </font>
 (updated on May 15, 2022).
 
 
