@@ -1,6 +1,6 @@
 Recent publications
 ------
-* D. Kim, D. Lee, J. Myung, C. Jung, **I. Hong**, D. Sáez-Trumper, J. Yun, W.-S. Jung, and M. Cha, "Information collection of COVID-19 pandemic using Wikipedia template network", *Journal of KIISE* **49**, 347 (2022). [[paper]](https://doi.org/10.5626/JOK.2022.49.5.347)
+* D. Kim, D. Lee, J. Myung, C. Jung, **I. Hong**, D. Sáez-Trumper, J. Yun, W.-S. Jung, and M. Cha, "Information collection of COVID-19 pandemic using Wikipedia template network", *Journal of KIISE* **49**, 347 (2022). (in Korean) [[paper]](https://doi.org/10.5626/JOK.2022.49.5.347)
 
 * L. N. Ferreira, **I. Hong**, A. Rutherford, and M. Cebrian, "The small-world network of global protests", *Scientific Reports* **11**, 19215 (2021). [[paper]](https://doi.org/10.1038/s41598-021-98628-y)
 
