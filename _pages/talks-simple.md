@@ -52,5 +52,5 @@ Posters
 1. **I. Hong** and W.-S. Jung, "Network Modeling of the Korean Urban Bus Network", *2014 Korean Physical Society Fall Meeting*, Oct 23, 2014.
 1. B.-H. Lee, **I. Hong**, and W.-S. Jung, "Complex Network Analysis of the Korean Transportation Network", *The 15th Asia Pacific Industrial Engineering and Management Systems Conference*, Oct 12-15, 2014.
 1. B.-H. Lee, **I. Hong**, W.-S. Jung, and O. Kwon, "Statistical Properties of the Korean Transportation Network as a Complex Network", *European Conference on Complex Systems '14*, Sep 23, 2014.
-1. **I. Hong** and W.-S. Jung, "Intra-City Bus Network Analysis on the Korean Cities for Understanding Urban Structures", *Korean Physical Society 2013 Fall Meeting*, Oct 31, 2013.
+1. **I. Hong** and W.-S. Jung, "Intra-City Bus Network Analysis on the Korean Cities for Understanding Urban Structures", *2013 Korean Physical Society Fall Meeting*, Oct 31, 2013.
 1. **I. Hong**, "Investigation on Intra-city Bus Network in Cheongju", *The 5th International Symposium on IT Convergence Engineering*, Jul 11-12, 2013.
