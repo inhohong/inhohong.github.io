@@ -10,7 +10,7 @@ redirect_from:
 
 I am a postdoc at [Center for Humans and Machines (CHM)](https://www.mpib-berlin.mpg.de/chm), [Max Planck Institute for Human Development (MPIB)](https://www.mpib-berlin.mpg.de/en), Germany. My research focuses on understanding society through data science and complex systems methods, with particular interests in <b>urban computing</b>, <b>social impact of AI</b>, <b>future of work</b>, <b>human mobility</b>, and <b>science of science</b>.
 
-<a href="https://github.com/inhohong/inhohong.github.io/blob/master/files/CV_Inho_Hong.pdf" target="_blank">[Download CV]</a> (updated on Aug 22, 2022).
+<a href="https://github.com/inhohong/inhohong.github.io/raw/master/files/CV_Inho_Hong.pdf" target="_blank">[Download CV]</a> (updated on Aug 22, 2022).
 
 {% include_relative education.md %}
 
