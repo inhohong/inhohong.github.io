@@ -16,16 +16,15 @@ I am a postdoc at [Center for Humans and Machines (CHM)](https://www.mpib-berlin
 
 {% include_relative work-experience.md %}
 
-{% include_relative visiting-experience.md %}
+{% include_relative recent_publications.md %}
+
+{% include_relative preprints.md %}
 
 {% include_relative honor-short.md %}
+
+{% include_relative visiting-experience.md %}
 
 {% include_relative article.md %}
 
 {% include_relative media.md %}
-
-{% include_relative preprints.md %}
-
-{% include_relative recent_publications.md %}
-
 
