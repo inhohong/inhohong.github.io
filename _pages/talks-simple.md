@@ -11,7 +11,7 @@ Invited talks
 
 Oral talks
 ------
-1. **I. Hong**, L. N. Ferreira, A. Rutherford, and M. Cebrian, "Assessing the impact of protests on the COVID-19 spread", *Conference on Complex Systems 2022*, Accepted.
+1. **I. Hong**, L. N. Ferreira, A. Rutherford, and M. Cebrian, "Assessing the impact of protests on the COVID-19 spread", *Conference on Complex Systems 2022*, Oct 21, 2022.
 1. **I. Hong**, L. N. Ferreira, A. Rutherford, and M. Cebrian, "Protest-driven epidemics during the COVID-19 pandemic", *Complex Networks 2021*, Dec 1, 2021.
 1. **I. Hong**, L. N. Ferreira, A. Rutherford, and M. Cebrian, "Epidemic-driven protests and protest-driven epidemics", *7th International Conference on Computational Social Science (IC2S2)*, Jul 30, 2021.
 1. **I. Hong**, L. N. Ferreira, A. Rutherford, and M. Cebrian, "Interplay of protests and epidemics during the COVID-19 pandemic", *Networks 2021*, Jul 10, 2021.
