@@ -4,6 +4,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-* Office: [Lentzeallee 94, Berlin 14195, Germany](https://www.google.com/maps/place/Max+Planck+Institute+for+Human+Development/@52.468554,13.303832,15z/data=!4m5!3m4!1s0x0:0x1b20c9fe95242942!8m2!3d52.468554!4d13.303832).
+* Office: [Room 311, Graduate School of Data Science, 77, Yongbong-ro, Buk-gu, Gwangju 61186, Korea](https://www.google.com/maps/place/Gwangju,+Yongbong-dong,+전남대학교+도서관별관/data=!3m1!4b1!4m6!3m5!1s0x35718c56a3b53c81:0xd77847f6829d801d!8m2!3d35.1780441!4d126.906901!16s%2Fg%2F12hl0mmk3?hl=en).
 <!-- * Phone (office): -->
-* Email: [hong@mpib-berlin.mpg.de](mailto:hong@mpib-berlin.mpg.de)
+* Email: [ihong@jnu.ac.kr](mailto:ihong@jnu.ac.kr)
