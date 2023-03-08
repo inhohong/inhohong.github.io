@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor at [Chonnam National University](https://global.jnu.ac.kr/jnumain_en.aspx), Korea. I am affiliated with [Max Planck Institute for Human Development (MPIB)](https://www.mpib-berlin.mpg.de/en), Germany as an Associate Research Scientist. My research focuses on understanding society through data science and complex systems methods, with particular interests in <b>urban computing</b>, <b>social impact of AI</b>, <b>future of work</b>, <b>human mobility</b>, and <b>science of science</b>.
 
-<a href="https://github.com/inhohong/inhohong.github.io/raw/master/files/CV_Inho_Hong.pdf" target="_blank">[Download CV]</a> (updated on Aug 22, 2022).
+<a href="https://github.com/inhohong/inhohong.github.io/raw/master/files/CV_Inho_Hong.pdf" target="_blank">[Download CV]</a> (updated on Mar 8, 2023).
 
 {% include_relative education.md %}
 
