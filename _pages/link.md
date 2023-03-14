@@ -5,6 +5,8 @@ author_profile: true
 ---
 
 {% include base_path %}  
+* [Graduate School of Data Science, Chonnam National University](https://ds.jnu.ac.kr/ds/index.do)
+* [Chonnam National University](https://global.jnu.ac.kr/jnumain_en.aspx)
 * [Center for Humans and Machines (CHM)](https://www.mpib-berlin.mpg.de/chm)  
 * [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en)  
 * [Complex Dynamics Laboratory (CoDyLab)](https://sites.google.com/site/codylab2/)  
