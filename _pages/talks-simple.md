@@ -7,6 +7,7 @@ author_profile: true
 
 Invited talks
 ------
+1. **I. Hong**, "Explaining complex interactions in socio-spatial systems with data science", *2023 Korean Physical Society Spring Meeting*, Apr 19, 2023.
 1. **I. Hong**, "Complex interplay between socio-spatial components of cities", *2021 Korean Physical Society Fall Meeting*, Oct 20, 2021 (**Young Statistical Physicist Award Lecture**).
 
 Oral talks
