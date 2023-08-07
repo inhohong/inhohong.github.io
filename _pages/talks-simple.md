@@ -7,11 +7,14 @@ author_profile: true
 
 Invited talks
 ------
+1. **I. Hong**, "Unraveling employment growth and human mobility in cities with scaling relations", *STATPHYS28 Satellite Meeting: New Frontiers in Complex Networks*, Aug 2, 2023.
 1. **I. Hong**, "Explaining complex interactions in socio-spatial systems with data science", *2023 Korean Physical Society Spring Meeting*, Apr 19, 2023.
 1. **I. Hong**, "Complex interplay between socio-spatial components of cities", *2021 Korean Physical Society Fall Meeting*, Oct 20, 2021 (**Young Statistical Physicist Award Lecture**).
 
 Oral talks
 ------
+1. D. Lee, O.-H. Kwon, **I. Hong**, J. Park, W.-S. Jung, H. Youn, "Mobility Connectedness: Uncovering socioeconomic bias and connectivity in urban mobility", *9th International Conference on Computational Social Science (IC2S2)*, Jul 18, 2023.
+1. O.-H. Kwon, D. Lee, **I. Hong**, J. Park, H. Youn, W.-S. Jung, "Mobility potential as a window to explore social capital in urban systems", *9th International Conference on Computational Social Science (IC2S2)*, Jul 18, 2023.
 1. **I. Hong**, L. N. Ferreira, A. Rutherford, and M. Cebrian, "Assessing the impact of protests on the COVID-19 spread", *Conference on Complex Systems 2022*, Oct 21, 2022.
 1. **I. Hong**, L. N. Ferreira, A. Rutherford, and M. Cebrian, "Protest-driven epidemics during the COVID-19 pandemic", *Complex Networks 2021*, Dec 1, 2021.
 1. **I. Hong**, L. N. Ferreira, A. Rutherford, and M. Cebrian, "Epidemic-driven protests and protest-driven epidemics", *7th International Conference on Computational Social Science (IC2S2)*, Jul 30, 2021.
