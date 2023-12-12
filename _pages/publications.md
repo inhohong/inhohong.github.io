@@ -7,6 +7,8 @@ author_profile: true
 
 The publication list can also be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=kmN6l-AAAAAJ&view_op=list_works&sortby=pubdate).
 
+1. O.-H. Kwon, **I. Hong**, W.-S. Jung, H.-H. Jo, "Multiple gravity laws for human mobility within cities", *EPJ Data Science* **12**, 57 (2023). [[paper]](https://doi.org/10.1140/epjds/s13688-023-00438-x)
+
 1. D. Kim, D. Lee, J. Myung, C. Jung, **I. Hong**, D. Sáez-Trumper, J. Yun, W.-S. Jung, and M. Cha, "Information collection of COVID-19 pandemic using Wikipedia template network", *Journal of KIISE* **49**, 347 (2022). (in Korean) [[paper]](https://doi.org/10.5626/JOK.2022.49.5.347)
 
 1. L. N. Ferreira, **I. Hong**, A. Rutherford, and M. Cebrian, "The small-world network of global protests", *Scientific Reports* **11**, 19215 (2021). [[paper]](https://doi.org/10.1038/s41598-021-98628-y)
