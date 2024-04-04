@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 {% include base_path %}  
+* [Computational Social Science and Complex Systems Lab (CSL)](https://csl-ds.github.io)
 * [Graduate School of Data Science, Chonnam National University](https://ds.jnu.ac.kr/ds/index.do)
 * [Chonnam National University](https://global.jnu.ac.kr/jnumain_en.aspx)
 * [Center for Humans and Machines (CHM)](https://www.mpib-berlin.mpg.de/chm)  
