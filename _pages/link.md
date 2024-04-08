@@ -15,7 +15,7 @@ author_profile: true
 * [Complexity in Social System (CS<sup>2</sup>) Lab.](http://complex.postech.ac.kr)  
 * [Pohang University of Science and Technology (POSTECH)](http://www.postech.ac.kr/eng/)  
 * [Department of Physics at POSTECH](http://phome.postech.ac.kr/user/pheng/index.html)  
-* [Complex Systems Research Exchange](https://sites.google.com/view/cxrex)
+* [Complex Systems Research Exchange (CREx)](https://sites.google.com/view/cxrex)
 * [Google Scholar: Inho Hong](https://scholar.google.com/citations?user=kmN6l-AAAAAJ&hl=en)  
 * [Linkedin: Inho Hong](https://www.linkedin.com/in/inho-hong-ba1b98122)  
 * [Physicia](http://comphys.postech.ac.kr/link)
