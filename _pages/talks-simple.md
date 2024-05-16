@@ -45,6 +45,8 @@ Oral talks
 
 Posters
 ------
+1. H. Lee, **I. Hong**, "Quantifying the impact of Vocational Education and Training on the Singapore labor market with text embedding and similarity-based networks", *2024 Korean Physical Society Spring Meeting*, Apr 23-26, 2024.
+1. W. Goh, H. Lee, **I. Hong**, "Unraveling the copying practices, "Urakai", in Korean digital media through similarity-based network analysis", *2024 Korean Physical Society Spring Meeting*, Apr 23-26, 2024.
 1. O.-H. Kwon, D. Lee, **I. Hong**, J. Park, W.-S. Jung, and H. Youn, "Urban mobility potential explained by socioeconomic status", *8th International Conference on Computational Social Science (IC2S2)*, Jul 19-22, 2022.
 1. **I. Hong**, M. Kwon, J. Kim, S. Na, and W.-S. Jung, "Urban scaling and transition in Korean economy", *2020 Korean Physical Society Fall Meeting*, Nov 4-6, 2020.
 1. O.-H. Kwon, **I. Hong**, W.-S. Jung, and H.-H. Jo, "Explaining the varying exponent of gravity model on urban landscapes", *2020 Korean Physical Society Fall Meeting*, Nov 4-6, 2020.
