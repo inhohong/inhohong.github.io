@@ -4,7 +4,7 @@ Professional Appointments
   * Assistant Professor, Mar 2023 - Present.
   * [Graduate School of Data Science](https://ds.jnu.ac.kr/ds/index.do)
 * [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en), Germany
-  * Associate Research Scientist, Mar 2023 - Present.
+  * Associate Research Scientist, Mar 2023 - Feb 2025.
   * Postdoctoral Fellow, Mar 2020 - Feb 2023.
   * [Center for Humans and Machines](https://www.mpib-berlin.mpg.de/chm) (Director: [Iyad Rahwan](https://rahwan.me/)), [Machines and the Future of Work Group](https://www.mpib-berlin.mpg.de/444689/theme-machines-and-the-future-of-work) (PI: [Alex Rutherford](http://www.alexrutherford.org/))
 * [Seoul Institute of Technology](http://www.sit.re.kr/user/nd24537.do?menuCode=engsite), Korea
