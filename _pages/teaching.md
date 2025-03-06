@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 ## 2025 Spring
-  * Graph Data and Network Analysis (GSDS0027, 3-credit)
+  * Graph Data and Network Analysis (GSDS0043, 3-credit)
   * Social Data Anaylsis and Visualization (DSC0002, 3-credit)
   * Topic in Computing for Data  Science (Network Science) (GSDS0016, 3-credit)
 
