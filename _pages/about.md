@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am an Assistant Professor at the Graduate School of Data Science, Chonnam National University, Korea and leading [Computational Social Science and Complex Systems Lab (CSL)](https://csl-ds.github.io).
-My research focuses on understanding society through data science and complex systems methods, with particular interests in <b>urban computing</b>, <b>social impact of AI</b>, <b>future of work</b>, <b>human mobility</b>, and <b>science of science</b>.
+My research focuses on understanding society through data science and complex systems methods, with particular interests in <b>urban data science</b>, <b>human mobility</b>, <b>social impact of AI</b>, and <b>application of natural language processing</b>.
 
 <a href="https://github.com/inhohong/inhohong.github.io/raw/master/files/CV_20250303.pdf" target="_blank">[Download CV]</a> (updated on Mar 3, 2025).
 
