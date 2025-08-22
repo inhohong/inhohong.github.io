@@ -7,7 +7,7 @@ author_profile: true
 
 The publication list can also be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=kmN6l-AAAAAJ&view_op=list_works&sortby=pubdate).
 
-1. H. Lee and **I. Hong**, "Quantifying the influence of Vocational Education and Training with text embedding and similarity-based networks", *arXiv preprint*, arXiv:2503.17931 (2025). [[arXiv]](https://arxiv.org/abs/2503.17931)
+1. H. Lee and **I. Hong**, "Quantifying the influence of vocational education and training with text embedding and similarity-based networks", *PLOS ONE* **20**, e0329405 (2025). [[paper]](https://doi.org/10.1371/journal.pone.0329405)
 
 1. **I. Hong**, J. E. Kim, J. Park, S. Joo, M. I. Ji, "Analysis of news trends of UNESCO World Heritage sites in Korea through text embedding and keyword networks", *Smart Media Journal* **13**, 201 (2024). (in Korean) [[paper]](https://dx.doi.org/10.30693/SMJ.2024.13.12.201)
 
