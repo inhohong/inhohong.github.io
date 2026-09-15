@@ -7,6 +7,10 @@ author_profile: true
 
 The publication list can also be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=kmN6l-AAAAAJ&view_op=list_works&sortby=pubdate).
 
+1. S. Kang, I. Hong, "Explaining distance deterrence variation in urban mobility with spatiotemporal features", *EPJ Data Science* (2026). [[paper]](https://doi.org/10.1007/s40042-026-01701-w)
+
+1. M. Shin, S. Kang, I. Hong, "A time-based gravity model of urban mobility and its comparison with a distance-based model", *Journal of the Korean Physical Society* (2026). [[paper]](https://doi.org/10.1007/s40042-026-01701-w)
+
 1. H. D. Kim, **I. Hong**, H.-C. Kim, "Predicting high exposure of per- and polyfluoroalkyl substances (PFASs) in Korean adults using machine learning", *International Journal of Hygiene and Environmental Health* **270**, 114674 (2025). [[paper]](https://doi.org/10.1016/j.ijheh.2025.114674)
 
 1. H. Jeong, S. Yang, S.-G. Park, **I. Hong**, H. D. Kim, "Predicting the Risk of Burnout Syndrome Using Korean Occupational Stress Scale (KOSS): A Machine Learning Approach", *Safety and Health at Work*, *in press* (2025). [[paper]](https://doi.org/10.1016/j.shaw.2025.08.006)
